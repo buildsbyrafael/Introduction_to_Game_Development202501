@@ -1,0 +1,142 @@
+{scene 1 [bg=Back00]}
+
+[None]
+Nas entranhas do vazio, eu escuto.
+
+[None]
+Aqui, não há luz.
+
+[None]
+Somente o peso da eternidade — um silêncio, cortado de tempos em tempos, por clamores distantes.
+
+[None]
+Eles ecoam como trovões, crescendo até se tornarem uma tempestade… Do outro lado da prisão.
+
+[None]
+Mesmo agora, depois de incontáveis eras… Ainda sofro por eles.
+
+[None]
+Os humanos.
+
+{scene 2 [bg=Abyss01]}
+
+[None]
+O tormento deles é um cântico fúnebre, lento e insistente. Suas dores, seus temores, seus suspiros moribundos… Tudo atravessa minha essência — com a mesma facilidade com que a luz, um dia, atravessou o firmamento.
+
+[None]
+E talvez — só talvez — seja isso o que mais dói: ainda ser capaz de sentir.
+
+[None]
+No princípio, fui um Algoz. Um anjo da Sétima Casa, moldado para guiar os mortos ao eterno descanso. Era o guardião da travessia, o arauto da esperança!
+
+[None]
+Integrante da Legião Alabastro, servi Charon, o grande arquiteto do Paraíso — um bastião entre mundos, entre vidas e mortes.
+
+[None]
+Havia beleza em nosso propósito… E havia amor também.
+
+[None]
+Junto à Terceira Casa, erguemos um Reino — um sonho feito de compaixão, consolo e cuidado. Ali, não éramos temidos. Nem repelidos. Éramos adorados. E, por um tempo breve, mas eterno… Felizes.
+
+[None]
+Não caí por Lúcifer.
+
+[None]
+Não desejei poder, nem me curvei a promessas.
+
+[None]
+Caí pelos mortais. Pela fragilidade de suas almas. Pela injustiça do destino. E pela solidão sem nome que os devorava.
+
+[None]
+Caí porque amava demais… E porque minha essência gritava por reciprocidade, contato e redenção.
+
+[None]
+E agora, neste cárcere de sombras, eu agonizo.
+
+[None]
+Não por arrependimento. Pela ausência. Pela perda. Pelo fracasso de não ter vencido a Rebelião.
+
+{scene 3 [bg=Abyss02]}
+
+[None]
+Fecho os olhos. Tapo os ouvidos. Tento, em vão, calar as lembranças.
+
+[None]
+Minha derrota queima como brasa. E minha queda — os crimes que cometemos, eu e meus irmãos — pulsa como uma ferida, um machucado que não cicatriza.
+
+[None]
+Mas, acima de tudo, há os clamores. Ah… Os malditos clamores!
+
+[None]
+Eles nunca cessam. Vozes dissonantes — distorcidas pela dor, rasgando o silêncio com súplicas que não posso atender.
+
+[None]
+Não mais…
+
+[None]
+Uma delas, porém, se sobressai.
+
+[None]
+Uma voz distinta. Fraca e vacilante… À beira do esquecimento.
+
+[None]
+sfx Jay01
+
+[None]
+Tão baixa. Tão quebrada. Tão… Desesperadamente medíocre.
+
+[None]
+sfx Jay02
+
+[None]
+Um último sussurro de humanidade. Um pedido feito no limiar da alma. E eu? Eu ouço. Porque ouvir é tudo o que me resta. Ou… Era.
+
+[None]
+sfx Tremor01
+
+[None]
+Ou… Era.
+
+{scene 4 [bg=Abyss03]}
+
+[None]
+A princípio, pensei que fosse um sussurro — outra prece, perdida no éter. Mas não.
+
+[None]
+Era algo mais bruto. Mais primitivo. Um estremecimento vindo de fora… E de dentro.
+
+[None]
+Não um soluço do tempo, nem um eco de memórias. Era real! Concreto. Uma vibração no tecido da prisão. 
+
+[None]
+Um rugido sem origem, vindo de todas as direções — como se a própria eternidade gritasse.
+
+[None]
+O Abismo tremeu! Não em ira… Mas em fratura. Algo — ou alguém — tocou as margens da cela angelical, com força suficiente para feri-la.
+
+[None]
+Uma fenda surgiu. Pequena. Quase imperceptível. E pelas bordas dessa ruptura, escorria uma luz. Não divina. Não pura. Mas humana: suja de pecado e embebida de desejo.
+
+[None]
+Vi os fracos rastejarem primeiro — pequenos caídos, se arrastando como vermes em êxtase. E eu? Eu hesitei.
+
+[None]
+Não por medo…
+
+[None]
+Hesitei, porque, após tanto tempo, a ideia de existir novamente… Me feria mais que mil punições.
+
+[None]
+Mas então, ouvi de novo. Aquela voz. A voz dele.
+
+[None]
+sfx Jay03
+
+[None]
+Aquilo me dilacerou.
+
+[None]
+Porque mesmo agora… Ainda escuto. E ouvir — só ouvir — é tudo o que fiz, por milênios.
+
+[None]
+Não mais!

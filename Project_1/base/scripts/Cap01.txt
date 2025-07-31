@@ -1,0 +1,393 @@
+{scene 1 [bg=Back00]}
+
+[None]
+{sfx Despertador01}
+
+[Jay]
+Irônico ou não, achava engraçado — e extremamente curioso…
+
+[Jay]
+De todas as dores, a que doía mais não era a física, e sim a mental — a psicológica.
+
+[Jay]
+Inexistente em vários sentidos, essa aflição não me dava pausas — sangrando e se derramando no meu subconsciente.
+
+{scene 2 [bg=JayHouse01]}
+
+[Jay]
+Sua origem, porém, era conhecida.
+
+[Jay]
+Tinha cabelos loiros, olhos azuis e curvas acentuadas.
+
+[Jay]
+Tinha lábios vermelhos, sorriso hipnotizante e uma expressão angelical.
+
+[Jay]
+E tinha nome e sobrenome… Apelidos carinhosos, que ecoavam magicamente assim que eu os pronunciava.
+
+[Jay]
+Cassie Howard… Cassie… Cass…
+
+{scene 3 [bg=JayHouse02]}
+
+[None]
+{sfx Chuveiro01}
+
+[Jay]
+Girando o registro, faço a ducha se intensificar — colidindo sobre mim com toda a força necessária.
+
+[Jay]
+Após mais uma semana, a metanfetamina cobrava seu preço… Substituindo a euforia, a alegria, a hiperatividade e a insônia por uma onda incontrolável de cansaço, culpa e vazio.
+
+[Jay]
+Isso, claro, não é novidade. Pois, por mais absurdo que pareça, a dependência é o que torna tudo suportável…
+
+[Jay]
+Sem ela, já teria partido — encerrando de vez minha existência medíocre.
+
+[Jay]
+E, conforme a corrente percorre meu cabelo, pescoço e ombros — deslizando pela pele, até desaguar no ralo —, suspiro.
+
+[Jay]
+Fecho os olhos… Arfo sob sensação excruciante de ficar acordado. De não desistir…
+
+[Jay]
+De voltar para o colchão e… Não levantar.
+
+{scene 4 [bg=Back00]}
+
+[Jay]
+Permaneço, por alguns minutos, nesse estado ordinário.
+
+[Jay]
+Depois, saio do box. Me seco — caminhando em silêncio até a cômoda.
+
+{scene 5 [bg=JayHouse01]}
+
+[Jay]
+Calça… Camiseta branca… Moletom escuro…
+
+[Jay]
+Visto-me com o figurino de sempre.
+
+[None]
+{sfx E-mails01}
+
+[Jay]
+O som chegou sem aviso. Fraco… Quase tímido — porém, estranhamente, convidativo.
+
+[Jay]
+Novos e-mails?
+
+[Jay]
+Não deve ser nada… Apenas… Coisas da escola.
+
+{choice cap1_decisao1}
+
+{scene escolhaA.1 [if=cap1_decisao1=A]}
+
+[Jay]
+Se bem que, às vezes, olhar não custa nada, né? E a verdade?
+
+{scene 5.1 [if=cap1_decisao1=A]}
+
+[Jay]
+A verdade é que não confio em silêncios tecnológicos…
+
+{scene 6 [bg=JayHouse03] [if=cap1_decisao1=A]}
+
+[Jay]
+Duas mensagens. A primeira… Previsível.
+
+[None]
+“Broken Highland High School – Aviso de Frequência.”
+
+[None]
+“Prezado Jay Wright…”
+
+[None]
+“Informamos que sua taxa de presença está abaixo do exigido. Segundo as diretrizes, é necessário atingir a frequência mínima para garantir a conclusão satisfatória dos estudos.”
+
+[None]
+“Recomendamos que entre em contato, para discutir sua situação e, se necessário, buscar alternativas que regularizem sua assiduidade.”
+
+[None]
+“Permanecemos à disposição. Atenciosamente, Direção.”
+
+[Jay]
+A escola… Sempre a escola.
+
+[Jay]
+Preocupada com o corpo, sim… Mas nunca com a mente. Com o espírito.
+
+[Jay]
+Querem que eu esteja lá, mesmo morto… Por dentro. A presença física como um protocolo de sucesso.
+
+[Jay]
+Que piada… Que… Babaquice.
+
+[Jay]
+Já o outro e-mail é dele…
+
+[Jay]
+“Fallen_Sear19.”
+
+[Jay]
+Não é a primeira vez. Na verdade, perdi a conta… Quatro. Talvez cinco outros. Sempre o mesmo conteúdo. Sempre…
+
+[None]
+“A garota é a chave.”
+
+[Jay]
+A mesma sentença — sem contexto, sem assinatura. Nada além disso.
+
+[Jay]
+Poderia bloquear. Denunciar. Ignorar. Mas não… Não faço nada. Porque parte de mim… Acredita que não seja um delírio digital.
+
+[Jay]
+Talvez — só talvez — haja algo… Algo que me conhece.
+
+{scene 7 [bg=JayHouse01] [if=cap1_decisao1=A]}
+
+[Jay]
+Porra! Estou atrasado.
+
+[Jay]
+Mas isso? Isso não é novidade.
+
+[Jay]
+Onde estão as chaves? E o meu celular? Merda… Cadê minha carteira?
+
+[None]
+{sfx Porta01}
+
+{scene escolhaB.1 [if=cap1_decisao1=B]}
+
+[Jay]
+É… Com certeza, não é nada.
+
+{scene 5.2 [if=cap1_decisao1=B]}
+
+[Jay]
+E porra! Estou atrasado.
+
+[Jay]
+Mas isso? Isso não é novidade.
+
+[Jay]
+Onde estão as chaves? E o meu celular? Merda… Cadê minha carteira?
+
+[None]
+{sfx Porta01}
+
+{scene 8 [bg=JayHouse04]}
+
+[Jay]
+— Mãe?
+
+{sprite name=Jay pos=(1600,450) width=900 height=900 fade=true}
+
+[Jay]
+Foi o que saiu, assim que entrei na sala.
+
+[Jay]
+Ela estava ali — no sofá. Os olhos semicerrados, pesados… O cabelo branco, desgrenhado, que caía em mechas tortas sobre o rosto… E, no colo… Uma fotografia. Apertada contra o peito.
+
+[Jay]
+Daquele jeito, naquele estado… Era óbvio. Mary passou a noite acordada.
+
+[Jay]
+— O que tá fazendo, mãe? — Perguntei, me aproximando. — O médico foi claro! A senhora precisa de repouso, descanso, sossego e longas horas de sono. — Suspirei, estendendo a mão. — Vamos… Eu te levo para cama.
+
+[Jay]
+Mary piscou devagar, como se despertasse de um transe.
+
+{sprite name=Mary pos=(370,410) width=825 height=825 fade=true}
+
+[Mary]
+— Jay?
+
+[Jay]
+Murmurou, meio confusa.
+
+[Mary]
+— Querido… Não posso deitar agora. Dormir… Seu avô vem aqui, esqueceu? Preciso cozinhar… Fazer o café, algumas torradas… Talvez, até um bolo. De cenoura, o preferido dele.
+
+[Jay]
+Fiquei em silêncio.
+
+[Jay]
+Só… Olhando pra ela, imóvel…
+
+[Jay]
+“Como ela virou isso? Tornou-se isso?”
+
+[Jay]
+Questionamento idiota… Afinal, sabia a resposta. Sabia desde sempre…
+
+[Jay]
+Estava na casa, nos retratos, no silêncio entre os cômodos…
+
+[Jay]
+Estava nela… E em mim, principalmente.
+
+[Jay]
+O passado da família… Uma corrente, presa no tornozelo.
+
+[Jay]
+Sempre que cuido dela, eu lembro… Como se fosse inevitável.
+
+[Jay]
+Será que vale a pena? Reviver agora? Recordar agora?
+
+{choice cap1_decisao2}
+
+{scene escolhaA.2 [if=cap1_decisao2=A]}
+
+[Jay]
+Foda-se! Ela é minha mãe!
+
+{scene 8.1 [if=cap1_decisao2=A]}
+
+[Jay]
+E eu… Eu nunca vou abandoná-la. 
+
+[Jay]
+— Não se preocupa. — Digo, baixinho, ajoelhando ao lado dela — Eu faço, tá? Eu… Preparo tudo.
+
+[Mary]
+— Mesmo?
+
+[Jay]
+Ela perguntou, com um brilho nos olhos.
+
+[Mary]
+— E a escola, filho? Vai se atrasar?
+
+[Jay]
+— Uhum. — Assenti. — Mas, não tem problema, certo? É por um bom motivo… É pelo vovô.
+
+[Jay]
+Mary não respondeu. Apenas balançou a cabeça… E sorriu.
+
+[Jay]
+Um sorriso que quase, quase, me fez chorar.
+
+{hide_sprite name=Mary fade=true}
+
+{hide_sprite name=Jay fade=true}
+
+{scene 9 [bg=JayHouse05] [if=cap1_decisao2=A]}
+
+{sfx Café01}
+
+[Jay]
+Joseph Harper Wright… Meu avô. 
+
+[Jay]
+Não, é claro que não aparecerá. Joseph está morto — enterrado ao lado da esposa e do neto, Matthew, meu irmão.
+
+[Jay]
+Joseph faleceu em um acidente de carro, na virada do ano. E, desde então, Mary mudou. Mudou radicalmente…
+
+[Jay]
+A depressão afetou sua cognição — memória e raciocínio, principalmente. Mary confunde a realidade. E acredita, veementemente, que o pai a visita… Sempre que não estou.
+
+[Jay]
+Jenna, minha tia, cuida dela às vezes. Porém, sendo enfermeira numa cidade pequena, nem sempre consegue…
+
+[Jay]
+Diferente de Derek, meu pai, ausente por vontade — por pura indiferença.
+
+[Jay]
+Pela quantidade de cerveja na geladeira, é evidente que Derek não pisa em casa… Há mais de quatro dias.
+
+[Jay]
+Sim, Derek tem uma amante — mais jovem, mais bela, sem filhos. E sim, ele está com ela: dando-lhe o dinheiro que minha mãe precisava. Merecia…
+
+[Jay]
+Depois de toda a dor, todo o sofrimento que Derek causou… Tolice pensar que mudaria. Principalmente sem Joseph, sem Matthew.
+
+[Jay]
+Não sou como eles — nunca fui… Se fosse, Mary estaria bem.
+
+[Jay]
+Eu a teria protegido… Cuidado dela, defendido… Teria impedido que ele — meu pai — a machucasse. Que a fizesse chorar…
+
+{scene 10 [bg=Back00] [if=cap1_decisao2=A]}
+
+[Jay]
+Nada de bolo. Não… Apenas café e torradas. É o que faço.
+
+[Jay]
+E, tão logo termino, volto à sala — levando um pouco, e o remédio, para Mary.
+
+{scene 11 [bg=JayHouse04] [if=cap1_decisao2=A]}
+
+[Jay]
+O remédio a faz dormir: tranquila, serena, pacífica e calma.
+
+[Jay]
+Não a levo para a cama. Simplesmente, a deito no estofado e a cubro, com o cobertor — depositando um beijo em sua testa, guardando o retrato e, imediatamente, lembrando… De todas as vezes em que a vi chorar.
+
+{sfx Celular01}
+
+[Jay]
+Em seguida, digito uma mensagem para Jenna… Pedindo que venha e cuide da Mary.
+
+[Jay]
+Não sei quando voltarei — a que horas chegarei.
+
+[Jay]
+Sei, apenas, que vou demorar… E me drogar. Até não conseguir lembrar de nada.
+
+{sfx Porta01}
+
+{scene escolhaB.2 [if=cap1_decisao2=B]}
+
+[Jay]
+É… Melhor minha tia resolver.
+
+{scene 8.2 [if=cap1_decisao2=B]}
+
+{sfx Celular01}
+
+[Jay]
+Pegando o celular, digito uma mensagem para Jenna… Pedindo que venha e cuide da Mary.
+
+[Jay]
+— Tudo bem. — Assenti. — Eu… Tenho que ir a escola.
+
+[Mary]
+— Claro, filho.
+
+[Jay]
+Levantando-se, com muita dificuldade, responde.
+
+[Mary]
+— Voltará cedo? Seu avô adoraria te ver…
+
+[Jay]
+— Acho que não, mãe… — Concluo, virando-me e saindo. — Mas, prometo tentar, okay?
+
+[Mary]
+— Okay… Seu avô e eu vamos te esperar.
+
+[Jay]
+Ouvindo-a, meu coração aperta… E tenho vontade de chorar.
+
+[Mary]
+— E Jay… Eu te amo, tá? Boa aula, querido. Orgulhe sua mãe…
+
+{hide_sprite name=Mary fade=true}
+
+[Jay]
+Não respondo… Como poderia? Falar as três palavras, enquanto a abandono assim?
+
+[Jay]
+Deus… Preciso me drogar. Até não conseguir lembrar de nada.
+
+{hide_sprite name=Jay fade=true}
+
+{sfx Porta01}

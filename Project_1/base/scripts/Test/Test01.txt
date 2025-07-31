@@ -1,0 +1,45 @@
+{scene 1 [bg=Back00]}
+
+[None]
+Testando...
+
+[Jay]
+Vamos escolher...
+
+{choice cap1_decisao1}
+
+{scene escolhaA [if=cap1_decisao1=A]}
+
+[None]
+Escolheu A.
+
+{scene 1.1 [if=cap1_decisao1=A]}
+
+[None]
+Continuação da cena A.
+
+{scene 2.1 [bg=Back02] [if=cap1_decisao1=A]}
+
+[None]
+Cena 2, opção A.
+
+[Jay]
+Funcionou?
+
+{scene escolhaB [if=cap1_decisao1=B]}
+
+[None]
+Escolheu B.
+
+{scene 1.2 [if=cap1_decisao1=B]}
+
+[Jay]
+Continuação da cena B.
+
+{scene 2.2 [bg=Back02] [if=cap1_decisao1=B]}
+
+[None]
+Cena 2, opção B.
+
+[Jay]
+Funcionou?

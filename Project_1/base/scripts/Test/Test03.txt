@@ -1,0 +1,49 @@
+{scene 1 [bg=Back00]}
+
+[None]
+Testando...
+
+{scene 2 [bg=Abyss01]}
+
+{sprite name=Jay pos=(1600,500) width=1050 height=1050 fade=true}
+
+[Jay]
+Testando...
+
+[Jay]
+Apenas testando...
+
+[Vergil]
+Testando...
+
+{choice cap1_decisao1}
+
+{scene cap1_escolhaA_entrada [if=cap1_decisao1=A]}
+
+[None]
+Escolheu A.
+
+{scene cap1_escolhaA_1 [bg=Abyss02] [if=cap1_decisao1=A]}
+
+[Vergil]
+Apenas testando a fonte.
+
+[Jay]
+Ficou legal?
+
+{hide_sprite name=Jay fade=true}
+
+{scene cap1_escolhaB_entrada [if=cap1_decisao1=B]}
+
+[None]
+Escolheu B.
+
+{scene cap1_escolhaB_1 [bg=Abyss02] [if=cap1_decisao1=B]}
+
+[Vergil]
+Apenas testando a fonte.
+
+[Jay]
+Ficou legal??
+
+{hide_sprite name=Jay fade=true}
